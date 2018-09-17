@@ -8,4 +8,3 @@ Block explorer for SpesCoin CryptoNote based cryptocurrency.
 ./spescoind --enable-cors=* --enable-blockexplorer --rpc-bind-ip=0.0.0.0 --rpc-bind-port=55490
 ```
 2) Just upload to your website and change 'api' variable in config.js to point to your daemon.
-# block-explorer
